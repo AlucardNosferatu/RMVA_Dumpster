@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------
+Theora Converter .NET
+Wednesday, December 30, 2015 5:48:43 PM
+
+ffmpeg2theora options: 
+ --videoquality 10 --pp default --audiobitrate 128 --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: C:\Users\Alucard\Documents\RPGVXAce\MG0\Movies
+Converting: '5221127-1.flv', (51.1 MB)
+Completed:  '5221127-1.ogv', (25.5 MB) in 8.3 minutes.
+Finished processing all files at 12/30/2015 5:57 PM
+----------------------------------------------------------------------------
+Theora Converter .NET
+Wednesday, December 30, 2015 6:19:32 PM
+
+ffmpeg2theora options: 
+ --videobitrate 1000 --pp default --audiobitrate 128 --two-pass --soft-target --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: C:\Users\Alucard\Documents\RPGVXAce\MG0\Movies
+Converting: '5221127-1 00_00_04-00_03_05.mp4', (13.9 MB)
+Completed:  '5221127-1 00_00_04-00_03_05.ogv', (8 MB) in 4.6 minutes.
+Finished processing all files at 12/30/2015 6:24 PM
